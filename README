@@ -1,0 +1,11 @@
+1. Install Guake and configure it to auto start during system startup
+
+  ~$ ./install.sh 
+
+2. Configure Guake's tab for the development
+
+  ~$ ./configuretabs.sh
+
+Note: chmod +x install.sh
+      chmod +x configuretabs.sh
+      (To make the scripts are executable)
